@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=2000&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Computer+Engineering+Fresh+Graduate+-+Donvis)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=2000&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Computer+Engineering+Fresh+Graduate+-+Donvis" alt="Typing SVG" /></a>
 
 <!--
 **donvis/donvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
